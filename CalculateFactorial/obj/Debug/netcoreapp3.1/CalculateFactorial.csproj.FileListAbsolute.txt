@@ -1,0 +1,11 @@
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/obj/Debug/netcoreapp3.1/CalculateFactorial.csprojAssemblyReference.cache
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/obj/Debug/netcoreapp3.1/CalculateFactorial.AssemblyInfoInputs.cache
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/obj/Debug/netcoreapp3.1/CalculateFactorial.AssemblyInfo.cs
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial.deps.json
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial.runtimeconfig.json
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial.runtimeconfig.dev.json
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial.dll
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/bin/Debug/netcoreapp3.1/CalculateFactorial.pdb
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/obj/Debug/netcoreapp3.1/CalculateFactorial.dll
+/home/ender/EnderCode/CS/LearningC#/CalculateFactorial/obj/Debug/netcoreapp3.1/CalculateFactorial.pdb

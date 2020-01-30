@@ -1,0 +1,1 @@
+A small app to calculate the factorial of a given integer
