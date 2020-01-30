@@ -1,0 +1,1 @@
+A small program to download a file from a remote server using the ftp protocol
